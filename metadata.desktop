@@ -6,14 +6,14 @@ saturation=1.7
 
 [Desktop Entry]
 Comment=Testing version of Genome Minimal, Modified from Breeze by the KDE VDG.
-Name=Genome Minimal Experimental
+Name=Genome Minimal Testing
 X-KDE-PluginInfo-Author=doncsugar
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPLv3
-X-KDE-PluginInfo-Name=genome-dark-exp
+X-KDE-PluginInfo-Name=genome-dark-test
 X-KDE-PluginInfo-Version=1.0.0
 X-KDE-PluginInfo-Website=
 X-Plasma-API=5.0
