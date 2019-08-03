@@ -1,8 +1,8 @@
 [ContrastEffect]
-contrast=1.2
+contrast=-.4
 enabled=true
-intensity=0.4
-saturation=1.7
+intensity=0.25
+saturation=-1.7
 
 [Desktop Entry]
 Comment=Testing version of Genome Minimal, Modified from Breeze by the KDE VDG.
@@ -14,7 +14,7 @@ X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-Name=genome-dark-test
-X-KDE-PluginInfo-Version=2.9.6
+X-KDE-PluginInfo-Version=3.0.5
 X-KDE-PluginInfo-Website=https://store.kde.org/p/1316032/
 X-Plasma-API=5.0
 
