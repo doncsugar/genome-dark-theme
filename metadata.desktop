@@ -1,6 +1,6 @@
 [ContrastEffect]
 #contrast=.6
-#enabled=false
+enabled=false
 #intensity=0.3
 #intensity=0.5
 #saturation=1.7
