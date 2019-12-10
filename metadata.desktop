@@ -1,5 +1,6 @@
 [ContrastEffect]
 <<<<<<< HEAD
+<<<<<<< HEAD
 contrast=0.4
 enabled=true
 saturation=1.4
@@ -9,6 +10,13 @@ enabled=false
 intensity=0.4
 saturation=-1.7
 >>>>>>> a8a26eb6ad94c818c700071757b309f41bd66b5b
+=======
+#contrast=.6
+enabled=false
+#intensity=0.3
+#intensity=0.5
+#saturation=1.7
+>>>>>>> a921a8d4bfda3ebb5359b88f9b58c04b34aced81
 
 [Desktop Entry]
 Comment=Genome Dark Ultra, Modified from Breeze by the KDE VDG.
@@ -21,11 +29,15 @@ X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPLv3
 <<<<<<< HEAD
 X-KDE-PluginInfo-Name=genome-dark-ultra
+<<<<<<< HEAD
 X-KDE-PluginInfo-Version=4.0.4
 =======
 X-KDE-PluginInfo-Name=genome-dark-test
 X-KDE-PluginInfo-Version=3.2.2
 >>>>>>> a8a26eb6ad94c818c700071757b309f41bd66b5b
+=======
+X-KDE-PluginInfo-Version=3.1.9
+>>>>>>> a921a8d4bfda3ebb5359b88f9b58c04b34aced81
 X-KDE-PluginInfo-Website=https://store.kde.org/p/1316032/
 X-Plasma-API=5.0
 
